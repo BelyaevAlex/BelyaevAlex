@@ -52,12 +52,19 @@ Here you’ll find experiments with RAG, evals, and ESP-IDF projects. Open to th
 
 ---
 
+<table>
+  <tr>
+    <td align="center"><img src="./assets/CV/images/CV_Alexander_Belyaev_page-0001.jpg" alt="Project 1" width="420"><br><sub>Page 1</sub></td>
+    <td align="center"><img src="./assets/CV/images/CV_Alexander_Belyaev_page-0002.jpg" alt="Project 2" width="420"><br><sub>Page 2</sub></td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="./CV_Alexander_Belyaev.pdf">
+  <a href="./assests/CV/CV_Alexander_Belyaev.pdf">
     <img alt="View CV (PDF)" 
          src="https://img.shields.io/badge/📄%20View%20CV-PDF-000000?style=for-the-badge">
   </a>
-  <a href="https://raw.githubusercontent.com/BelyaevAlex/BelyaevAlex/main/CV_Alexander_Belyaev.pdf">
+  <a href="https://raw.githubusercontent.com/BelyaevAlex/BelyaevAlex/main/assests/CV/CV_Alexander_Belyaev.pdf">
     <img alt="Download CV" 
          src="https://img.shields.io/badge/⬇️%20Download-CV-0A66C2?style=for-the-badge">
   </a>
